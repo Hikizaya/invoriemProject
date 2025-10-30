@@ -1,6 +1,6 @@
 # Сайт Invoriem
 ## 🚀 Демо
-[Посмотреть живую страницу](httpshikizaya.github.ioinvoriemProject)
+[Посмотреть живую страницу](https://hikizaya.github.io/invoriemProject/)
 ## 🛠 Технологии
 - HTML, CSS, JS
 - Адаптив
